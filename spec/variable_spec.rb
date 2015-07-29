@@ -1,3 +1,5 @@
+greeting = "Hello World"
+
 # Code your solution in variable.rb
 describe "local variables" do
 
